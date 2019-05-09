@@ -141,7 +141,7 @@ public class Main {
         print(9,Math.min(3,10));
         print(10,Math.max(3,10));
 //        print(8,Math.sqrt(10));
-        print(11,Math.ceil(2.2));//double
+       // print(11,Math.ceil(2.2));//double
         print(12,Math.floor(2.2));//double
     }
     public static void main(String[] args) {
